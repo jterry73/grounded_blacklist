@@ -1,32 +1,50 @@
 #Grounded blocklist
-0.0.0.0 dis.gd
-0.0.0.0 discord.co
-0.0.0.0 discord.com
-0.0.0.0 discord.design
-0.0.0.0 discord.dev
-0.0.0.0 discord.gg
-0.0.0.0 discord.gift
-0.0.0.0 discord.gifts
-0.0.0.0 discord.media
-0.0.0.0 discord.new
-0.0.0.0 discord.store
-0.0.0.0 discord.tools
-0.0.0.0 discordapp.com
-0.0.0.0 discordapp.net
-0.0.0.0 discordmerch.com
-0.0.0.0 discordpartygames.com
-0.0.0.0 discord-activities.com
-0.0.0.0 discordactivities.com
-0.0.0.0 discordsays.com
-0.0.0.0 discordstatus.com
-0.0.0.0 youtube.com
-0.0.0.0 m.youtube.com
-0.0.0.0 ytimg.com
-0.0.0.0 youtu.be
-0.0.0.0 twitch.tv
-0.0.0.0 facebook.com
-0.0.0.0 meta.facebook.com
-0.0.0.0 m.facebook.com
-0.0.0.0 activision.com
-0.0.0.0 steam.net
-0.0.0.0 m.steam.net
+dis.gd
+discord.co
+discord.com
+discord.design
+discord.dev
+discord.gg
+discord.gift
+discord.gifts
+discord.media
+discord.new
+discord.store
+discord.tools
+discordapp.com
+discordapp.net
+discordmerch.com
+discordpartygames.com
+discord-activities.com
+discordactivities.com
+discordsays.com
+discordstatus.com
+youtube.com
+m.youtube.com
+ytimg.com
+youtu.be
+googlevideo.com
+twitch.tv
+ttvnw.net
+jtvnw.net
+live-video.net
+ext-twitch.tv
+twitch-shadow.net
+twitch.a2z.com
+twitchcdn-shadown.net
+twitchsvc-staging.tech
+twitchsvc.net
+facebook.com
+meta.facebook.com
+m.facebook.com
+activision.com
+steam.net
+m.steam.net
+steamserver.net
+steampowered.com
+steamstatic.com
+steamcommunity.com
+steamcontent.com
+steam-chat.com
+steamusercontent.com
+
